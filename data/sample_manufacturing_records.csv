@@ -1,0 +1,8 @@
+Part Number,Description,Material,Process,Machine,Revision,Quantity,Notes
+2280,Flanged bearing housing,Aluminum 6061-T6,CNC milling,HAAS VF-2,C,150,Deburr all edges
+2281,Shaft collar,Stainless steel 304,CNC turning,Okuma LB3000,A,500,
+00123,Spacer washer,Brass C360,CNC turning,Haas ST-10,B,1000,Preserve leading-zero part ID
+123,Mounting bracket,Mild steel,CNC milling,DMG MORI NVX,A,75,Distinct from 00123
+4500,End cap,Delrin,CNC milling,HAAS VF-2,D,200,
+9901,Adapter plate — Rev A tooling,Aluminum 7075,CNC milling,Makino A51,A,20,Duplicate PN demo row 1
+9901,Adapter plate — Rev B production,Aluminum 7075,CNC milling,Makino A51,B,80,Duplicate PN demo row 2
